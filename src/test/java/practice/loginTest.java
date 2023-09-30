@@ -2,7 +2,7 @@ package practice;
 
 import org.testng.annotations.Test;
 
-public class login {
+public class loginTest {
 	@Test
 	public void test1()
 	{
