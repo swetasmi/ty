@@ -8,6 +8,10 @@ public class gitpracticeTest {
 	{
 		System.out.println("hii");
 	}
+	public void test()
+	{
+		System.out.println("hello");
+	}
 	
 
 }
