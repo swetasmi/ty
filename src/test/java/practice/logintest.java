@@ -8,5 +8,11 @@ public class logintest {
 	{
 		System.out.println("bye");
 	}
+	
+	@Test
+	public void test2()
+	{
+		System.out.println("bye2");
+	}
 
 }
