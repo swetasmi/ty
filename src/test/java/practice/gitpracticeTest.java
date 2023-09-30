@@ -8,7 +8,7 @@ public class gitpracticeTest {
 	{
 		System.out.println("hii");
 	}
-	@Test
+	@Test(groups="smoke")
 	public void test()
 	{
 		System.out.println("hello");
